@@ -7,7 +7,6 @@ git commit -m "🎉 Initialize Commit"
 ##### popular
 emoji                                   | emoji                      | commit
 :--------                               | :--------                  | :--------
-🎉                                      | `:tada:`                   | Initial Commit
 ➕                                      | `:heavy_plus_sign:`        | Adding code or files
 📝                                      | `:pencil:`                 | Changes/Fixing the code or language
 🔥                                      | `:fire:`                   | Removing code or files
@@ -39,6 +38,7 @@ emoji                                   | emoji                      | commit
 ##### admin
 emoji                                   | emoji                      | commit
 :--------                               | :--------                  | :--------
+🎉                                      | `:tada:`                   | Initial Commit
 📚                                      | `:books:`                  | Documentation 
 ❄️                                      | `:snowflake:`              | Changing server configuration 
 🔖                                      | `:bookmark:`               | Version Tag
