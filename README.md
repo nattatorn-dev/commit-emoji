@@ -10,7 +10,7 @@ emoji                                   | emoji                      | commit
 🎉                                      | `:tada:`                   | Initial Commit
 ➕                                      | `:heavy_plus_sign:`        | Adding code or files
 📝                                      | `:pencil:`                 | Changes/Fixing the code or language
-🔥                                      | `:fire:`                   | Removing code or files, maybe with @CHANGED Comment Tag
+🔥                                      | `:fire:`                   | Removing code or files
 ♻️                                      | `:recycle:`                | Recycle code or files
 
 ##### general
@@ -33,7 +33,7 @@ emoji                                   | emoji                      | commit
 ##### bug
 emoji                                   | emoji                      | commit
 :--------                               | :--------                  | :--------
-🐛                                      | `:bug:`                    | Reporting a bug, with @FIXMEComment Tag
+🐛                                      | `:bug:`                    | Reporting a bug, with @FIXME Comment Tag
 🚑                                      | `:ambulance:`              | Fixing a bug
 
 ##### admin
@@ -49,8 +49,7 @@ emoji                                   | emoji                      | commit
 
 Available Grammar
 =================
-  - [`@FIXME`](#bug-report): Bug Report, should be corrected, Marked with :bug: Commit
-  - `@CHANGED`: Version Changes together with `@SINCE` DocComment, _Usually_ Marked with :fire: or :zap: Commits
-  - `@IDEA`: A New Idea or Proof-of-Concept, Marked with :bulb: Commit
+  - `@FIXME`: Bug Report, should be corrected, Marked with 🐛 :bug: Commit
+  - `@IDEA`: A New Idea or Proof-of-Concept, Marked with 💡 :bulb: Commit
   - `@NOTE`: Add attention to something Important
-  - `@REVIEW`: Needs to be Audited/Reviewed Immediately, _Usually_ Marked with :construction: Commit
+  - `@REVIEW`: Needs to be Audited/Reviewed Immediately
