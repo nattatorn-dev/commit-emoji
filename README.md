@@ -1,4 +1,5 @@
-### Commit Type	Emoji
+Commit Type	Emoji
+=================
 
 ```sh
 git commit -m "🎉 Initialize Commit"
@@ -53,3 +54,8 @@ Available Grammar
   - `@IDEA`: A New Idea or Proof-of-Concept, Marked with 💡 `:bulb:` Commit
   - `@NOTE`: Add attention to something Important
   - `@REVIEW`: Needs to be Audited/Reviewed Immediately
+  
+##### Example
+```sh
+git commit -m "✨ Add datebar and interval fetch function"
+```
