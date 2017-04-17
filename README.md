@@ -49,7 +49,7 @@ emoji                                   | emoji                      | commit
 
 Available Grammar
 =================
-  - `@FIXME`: Bug Report, should be corrected, Marked with 🐛 :bug: Commit
-  - `@IDEA`: A New Idea or Proof-of-Concept, Marked with 💡 :bulb: Commit
+  - `@FIXME`: Bug Report, should be corrected, Marked with 🐛 `:bug:` Commit
+  - `@IDEA`: A New Idea or Proof-of-Concept, Marked with 💡 `:bulb:` Commit
   - `@NOTE`: Add attention to something Important
   - `@REVIEW`: Needs to be Audited/Reviewed Immediately
