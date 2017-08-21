@@ -12,6 +12,7 @@ emoji                                   | emoji                      | commit
 📝                                      | `:pencil:`                 | Changes/Fixing the code or language
 🔥                                      | `:fire:`                   | Removing code or files
 ♻️                                      | `:recycle:`                | Recycle code or files
+💩                                      | `:hankey:`                | Writing bad code that needs to be improved.
 
 ##### general
 emoji                                   | emoji                      | commit
@@ -22,6 +23,7 @@ emoji                                   | emoji                      | commit
 🐎                                      | `:racehorse:`              | Performance
 ⚡️                                      | `:zap:`                    | Performance	(super)
 🚨                                      | `:rotating_light:`         | Adding tests
+🍱                                      | `:bento:`                  | Adding or updating assets.
 
 ##### tooling
 emoji                                   | emoji                      | commit
@@ -29,6 +31,7 @@ emoji                                   | emoji                      | commit
 💚                                      | `:green_heart:`            | Fixing the CI build
 🐳                                      | `:whale:`                  | Docker
 🍃                                      | `:leaves:`                 | MongoDB
+🚀                                      | `:rocket:`                 | Deploying stuff now, heroku
 
 ##### bug
 emoji                                   | emoji                      | commit
@@ -36,7 +39,7 @@ emoji                                   | emoji                      | commit
 🐛                                      | `:bug:`                    | Reporting a bug, with @FIXME Comment Tag
 🚑                                      | `:ambulance:`              | Fixing a bug
 
-##### admin
+##### team leader
 emoji                                   | emoji                      | commit
 :--------                               | :--------                  | :--------
 🎉                                      | `:tada:`                   | Initial Commit
