@@ -12,7 +12,7 @@ emoji                                   | emoji                      | commit
 📝                                      | `:pencil:`                 | Changes/Fixing the code or language
 🔥                                      | `:fire:`                   | Removing code or files
 ♻️                                      | `:recycle:`                | Recycle code or files
-💩                                      | `:hankey:`                | Writing bad code that needs to be improved.
+💩                                      | `:poop:`                | Writing bad code that needs to be improved.
 
 ##### general
 emoji                                   | emoji                      | commit
